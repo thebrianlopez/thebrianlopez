@@ -2,7 +2,7 @@
 
 Staff Platform Engineer at [Grindr](https://github.com/blo-grindr) (NYSE: GRND). I own the cloud infrastructure for a platform serving 15M monthly active users across 190 countries — 8 AWS accounts, 5+ EKS clusters, GitOps via ArgoCD, and the internal tooling that keeps engineers from doing things manually.
 
-On the side, I build the cloud backbone for [Farewell John](https://farewelljohn.com), a four-person startup helping families navigate end-of-life care.
+On the side, I build the cloud backbone for [Farewell John](https://farewelljohn.com/demo/), a four-person startup helping families navigate end-of-life care.
 
 ---
 
