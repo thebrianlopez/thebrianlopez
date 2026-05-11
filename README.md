@@ -39,7 +39,7 @@ MCP server that surfaces AWS IAM and S3 introspection directly into AI coding as
 
 ## Farewell John ([hersolutionsllc](https://github.com/hersolutionsllc))
 
-CTO and founding engineer at [farewelljohn.com](https://farewelljohn.com), a platform helping families find and compare funeral home pricing. I own the full stack: infrastructure, data pipeline, deployment, and operations.
+The **PRD** identified a consumer problem: families navigating a death shouldn't have to call a dozen funeral homes to compare prices. The **FDD** answered it with a clean separation principle — ingest data continuously in the background, serve it instantly from a read-only API — so the product could scale without coupling the user experience to crawl latency. The **TDD** made it operational: PostGIS for spatial search, Airflow DAGs for multi-source ingestion, CloudFront edge functions for zero-downtime maintenance, and a one-command local production clone so nothing ships untested. I owned the full chain from product spec to running infrastructure at [farewelljohn.com](https://farewelljohn.com).
 
 | System | What it does |
 |--------|-------------|
