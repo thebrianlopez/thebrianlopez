@@ -1,6 +1,6 @@
 # Hi, I'm Brian
 
-Staff Platform Engineer at [Grindr](https://github.com/blo-grindr) (NYSE: GRND) and founding engineer at [Farewell John](https://farewelljohn.com). I build cloud infrastructure, identity systems, and the automation that removes manual work from the loop.
+Staff Platform Engineer at [Grindr](https://github.com/blo-grindr) (NYSE: GRND) and founding engineer at [Farewell John](https://farewelljohn.com/demo/). I build cloud infrastructure, identity systems, and the automation that removes manual work from the loop.
 
 **Scale:** 15M monthly active users, 190 countries, 8 AWS accounts, 5+ EKS clusters, $1.4M/year in cloud cost eliminated.
 
