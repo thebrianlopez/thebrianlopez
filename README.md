@@ -20,6 +20,9 @@ Staff Platform Engineer at [Grindr](https://github.com/blo-grindr) (NYSE: GRND) 
 
 ## Projects
 
+### [runabout](https://github.com/thebrianlopez/runabout)
+Go devtools monorepo: thirteen CLI tools for shell optimization, structured telemetry, and AI-augmented workflows. Every tool emits to a unified JSONL event bus — usage-driven decisions about what to build, optimize, or deprecate. Includes `mdq` (markdown query engine), `ts-go` (tree-sitter Go analysis), `perfgate`, `workctl`, and more.
+
 ### [perfgate](https://github.com/thebrianlopez/perfgate)
 Statistical performance gating for CI. Define a benchmark, set a regression threshold, fail the build. Simple contract, serious signal.
 
